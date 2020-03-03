@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pl-sitemap
 sitemap包
 =======
@@ -47,3 +48,7 @@ sitemap.addSitemap(context); 添加redis新数据
 sitemap.deleAll() 清空redis所有数据
 ```
 >>>>>>> 3.3
+=======
+# pl-sitemap
+sitemap包
+>>>>>>> b94bc1f7cda0d0ee776a2e4e85d6359196d32a51
