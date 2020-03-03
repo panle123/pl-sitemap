@@ -1,6 +1,6 @@
 {
   "name": "pl-sitemap",
-  "version": "1.0.23",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunfengziwen/yf-vue-directive.git"
+    "url": "https://github.com/panle123/pl-sitemap.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
