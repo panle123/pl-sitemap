@@ -1,7 +1,7 @@
 {
   "name": "pl-sitemap",
   "version": "1.0.0",
-  "description": "",
+  "description": "sitemap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,7 @@
   },
   "author": "panle",
   "license": "ISC",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/panle123/pl-sitemap.git"
@@ -21,3 +22,5 @@
     "rimraf": "^3.0.0"
   }
 }
+
+
